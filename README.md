@@ -7,3 +7,5 @@ ex: $home/user/.zshrc
 
 
 ![alt text](https://github.com/hrugved-knocks/zshrc/blob/master/preview.png)
+
+![alt text](https://github.com/hrugved-knocks/zshrc/blob/master/terminal_closeup.png)
